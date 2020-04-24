@@ -1,0 +1,11 @@
+Package: mclogit_fast
+Type: Package
+Title: conditional logit
+Version: 1.0
+Date: 2020-04-24
+Author: Sebastian Fahnenschreiber
+Maintainer: Sebastian Fahnenschreiber <sebastian.fahnenschreiber@gmail.com>
+Description: Fast implementation of the conditional logit estimator in mclogit.
+License: GPL-2
+Imports: Rcpp (>= 1.0.1)
+LinkingTo: Rcpp, RcppArmadillo
